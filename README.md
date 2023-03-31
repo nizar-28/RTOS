@@ -1,2 +1,0 @@
-# RTOS
-Real Time Systems
